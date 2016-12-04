@@ -1,14 +1,11 @@
 # Computer games
 
-| Year | Title | Info |
-|------|-------|------|
-|2000|[You don't know Jack 3](https://www.amazon.de/You-dont-know-Jack-3/dp/B00004TPZI/?tag=maierandi-21)| https://de.wikipedia.org/wiki/You_Don%E2%80%99t_Know_Jack|
-| |[Bridge Builder](https://www.amazon.de/Bridge-Builder-planen-bauen-testen/dp/B000TL3FGQ/?tag=maierandi-21)| https://en.wikipedia.org/wiki/Bridge_Builder |
-
-
-## 1999
-* https://en.wikipedia.org/wiki/Need_for_Speed:_High_Stakes
-* https://en.wikipedia.org/wiki/Starship_Titanic
+ Year | Title | Info 
+------|-------|------
+2000|[You don't know Jack 3](https://www.amazon.de/You-dont-know-Jack-3/dp/B00004TPZI/?tag=maierandi-21)| https://de.wikipedia.org/wiki/You_Don%E2%80%99t_Know_Jack
+ |[Bridge Builder](https://www.amazon.de/Bridge-Builder-planen-bauen-testen/dp/B000TL3FGQ/?tag=maierandi-21)| https://en.wikipedia.org/wiki/Bridge_Builder 
+1999| [Need for Speed: High Stakes](https://www.amazon.de/Need-Speed-IV-Brennender-Classics/dp/B00004TPI6/?tag=maierandi-21)| https://en.wikipedia.org/wiki/Need_for_Speed:_High_Stakes
+ | [Starship Titanic](https://www.amazon.de/NBG-Starship-Titanic/dp/B00004TOWB/?tag=maierandi-21)|https://en.wikipedia.org/wiki/Starship_Titanic
 
 ## 1998
 * https://en.wikipedia.org/wiki/Commandos_(series)
