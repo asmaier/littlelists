@@ -1,2 +1,2 @@
 # littlelists
-Little lists of useful things.
+Little lists of interesting things.
