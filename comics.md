@@ -2,6 +2,7 @@
 
  Year | Title | Info 
 ------|-------|------
+1986|[Bastos und Zakusky](https://www.amazon.de/Bastos-Zakusky-Bd-Auf-Flucht/dp/3924623058/?tag=maierandi-21)|http://www.comicguide.de/index.php/component/comicguide/?controller=details&file=book&content=short&comment=short&display=long&id=2193
 1984|[Die besten Geschichten mit Donald Duck](https://www.amazon.de/besten-Geschichten-Donald-Klassik-grosse/dp/B002D3E594/?tag=maierandi-21)|http://www.duckipedia.de/index.php5?title=Die_besten_Geschichten_mit_Donald_Duck_-_Klassik_Album
 1983|[Abenteuer aus Onkel Dagoberts Schatztruhe](https://www.amazon.de/Alle-Abenteuer-Onkel-Dagoberts-Schatztruhe/dp/3770438469/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Adolf_Kabatek
 1972|[Clever und Smart](https://www.amazon.de/Clever-Smart-Nr-Asphalt-Safari-Jubil%C3%A4ums-Nachdruck/dp/B00SHC4B7G/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Clever_%26_Smart
