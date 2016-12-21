@@ -5,7 +5,7 @@
 2015  | [McDowell: Cracking the Coding Interview](https://www.amazon.de/Cracking-Coding-Interview-6th-Programming/dp/0984782850/?tag=maierandi-21) | Sets the standard for books of this kind
 2014  | [Butcher: Seven Concurrency Models in Seven Weeks](https://www.amazon.de/Seven-Concurrency-Models-Weeks-Programmers/dp/1937785653/?tag=maierandi-21) | Best overview and comparison of different concurrency models
 2012  | [Josuttis: The C++ Standard Library](https://www.amazon.de/Standard-Library-Tutorial-Reference/dp/0321623215/?tag=maierandi-21) | The best book to start learning C++
-2011  | [Krüger: Handbuch der Java-Programmiereung](https://www.amazon.de/Handbuch-Java-Programmierung-HTML-Version-Standard-Programmers/dp/3827327512/?tag=maierandi-21) | Best introduction to object oriented programming for Java in German
+2011  | [Krüger: Handbuch der Java-Programmierung](https://www.amazon.de/Handbuch-Java-Programmierung-HTML-Version-Standard-Programmers/dp/3827327512/?tag=maierandi-21) | Best introduction to object oriented programming for Java in German
 2008  | [Bloch: Effective Java (2nd Edition)](https://www.amazon.de/Effective-Java-2nd-Programming-Language/dp/0321356683/?tag=maierandi-21) | A senior Java developers must have read this book
 2008  | [Martin: Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Clean_Code
 2007  | [Chapman: Fortran 95/2003 for Scientists and Engineers](https://www.amazon.de/Fortran-95-2003-Scientists-Engineers/dp/0073191574/?tag=maierandi-21) | Best book on modern Fortran
