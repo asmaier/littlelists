@@ -19,6 +19,7 @@
 1995  | [Meyers: More Effective C++](https://www.amazon.de/More-Effective-Improve-Programs-Designs/dp/020163371X/?tag=maierandi-21) | Second best book to improve your C++
 1994  | [Gamma: Design Patterns](https://www.amazon.de/Patterns-Elements-Reusable-Object-Oriented-Software/dp/0201633612/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Design_Patterns
 
-Another nice list of links and book is this one:
+Other nice lists of links and books are:
 
+- [Machine Learning Bookshelf](http://ghyslain.me/bookshelf)
 - [Google Interview University](https://github.com/jwasham/google-interview-university)
