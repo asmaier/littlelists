@@ -2,11 +2,18 @@
 
  Year | Title | Info 
 ------|-------|------
+2015  | [Lancaster: Quantum Field Theory for the Gifted Amateur](https://www.amazon.de/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X/?tag=maierandi-21) | Best explanation of the occupation number representation 
 2014  | [Stöcker: Taschenbuch der Physik](https://www.amazon.de/Taschenbuch-Physik-Horst-Stöcker/dp/3808556757/?tag=maierandi-21) | The "Bronstein" of physics
+2013  | [McMahon: Quantum Mechanics Demystified](https://www.amazon.de/Quantum-Mechanics-Demystified-David-McMahon/dp/0071765638/?tag=maierandi-21) | Really simple step-by-step calculations
+      | [Schwartz: Quantum Field Theory and the Standard Model](https://www.amazon.de/Quantum-Field-Theory-Standard-Model/dp/1107034736/?tag=maierandi-21) | Most modern view of QFT. Praised by Edward Witten.
 2010  | [Feynman: Quantum Mechanics and Path Integrals](https://www.amazon.de/Dover-Books-Physics-Mechanics-Integrals/dp/0486477223/?tag=maierandi-21) | Path integrals explained by their inventor - Important reference
+2008  | [McMahon: Quantum Field Theory Demystified](https://www.amazon.de/Quantum-Field-Theory-Demystified-Self-Teaching/dp/0071543821/?tag=maierandi-21) | Really simple step-by-step calculations
+      | [McMahon: String Theory Demystified](https://www.amazon.de/String-Theory-Demystified-David-McMahon/dp/0071498702//?tag=maierandi-21) | Probably the simplest introduction to String theory ever written
+      | [Weinberg: Cosmology](https://www.amazon.de/Cosmology-Steven-Weinberg/dp/0198526822/?tag=maierandi-21) | The reference about cosmology
 2007  | [Yourgrau: Variational Principles in Dynamics an Quantum Theory](https://www.amazon.de/Variational-Principles-Dynamics-Quantum-Physics/dp/0486458881/?tag=maierandi-21) | Rare book showing how to develop hydrodynamics from a variational principle
-2005  | [Brown: Feynman's Thesis](https://www.amazon.de/Feynmans-Thesis-Approach-Quantum-Theory/dp/9812563660/) | Many ideas of Feynman published later are explained in more detail in his thesis - A historical gem
-2005  | [Rebhan: Theoretische Physik II](ww.amazon.de/Quantenmechanik-Relativistische-Quantenfeldtheorie-Elementarteilchentheorie-Thermodynamik/dp/3827402476/?tag=maierandi-21) | Second book of Rebhans amazingly compact series. The only book which doesn't use natural units for QFT.
+2005  | [Brown: Feynman's Thesis](https://www.amazon.de/Feynmans-Thesis-Approach-Quantum-Theory/dp/9812563660/?tag=maierandi-21) | Many ideas of Feynman published later are explained in more detail in his thesis - A historical gem
+      | [McMahon: Relativity Demystified](https://www.amazon.de/Relativity-Demystified-David-McMahon-ebook/dp/B008KICUR0/) | Really simple step-by-step calculations
+      | [Rebhan: Theoretische Physik II](ww.amazon.de/Quantenmechanik-Relativistische-Quantenfeldtheorie-Elementarteilchentheorie-Thermodynamik/dp/3827402476/?tag=maierandi-21) | Second book of Rebhans amazingly compact series. The only book which doesn't use natural units for QFT.
 2002  | [Feynman: Lectures on Gravitation](https://www.amazon.de/Feynman-Lectures-Gravitation-Frontiers-Physics/dp/0813340381/?tag=maierandi-21) | The most advanced book by Feynman on quantum theory of gravitation - a gem not widely known
 2000  | [Pauli: Relativitätstheorie](ww.amazon.de/Relativitätstheorie-Domenico-Giulini/dp/3642635482/?tag=maierandi-21) | The book that made Pauli famous and was praised by Einstein
 2000  | [Pauli: Electrodynamics: Volume 1 of Pauli Lectures on Physics](https://www.amazon.de/Electrodynamics-Pauli-Lectures-Physics-Vol/dp/0486414574/?tag=maierandi-21) | The Pauli lectures are the insider tip! They are very short and concise, but simply masterful and full of gems.  
@@ -26,3 +33,8 @@ Very good list of physics books are also:
 
 - https://www.staff.science.uu.nl/~gadda001/goodtheorist/texts&resources.html
 - http://math.ucr.edu/home/baez/physics/Administrivia/booklist.html
+- https://onphysicsbooks.blogspot.de/2009/01/walter-greiner.html
+
+And last but not least, the most beautiful online book:
+
+- http://www.feynmanlectures.caltech.edu/ 
