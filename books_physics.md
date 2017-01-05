@@ -29,11 +29,15 @@
 1988  | [Dirac: The Principles of Quantum Mechanics](https://www.amazon.de/Principles-Quantum-Mechanics-P-Dirac/dp/0198520115/?tag=maierandi-21) | The first chapter is worth a Nobel prize alone - It explains the need for quantum mechanics very clearly
 
 
-Very good list of physics books are also:
+Very good lists of physics books are also:
 
 - https://www.staff.science.uu.nl/~gadda001/goodtheorist/texts&resources.html
 - http://math.ucr.edu/home/baez/physics/Administrivia/booklist.html
 - https://onphysicsbooks.blogspot.de/2009/01/walter-greiner.html
+
+The ultimate reference for particle physics and the standard model is "The Review of Particle Physics". As of 2016 the booklet has 348 pages and the full book 1808 pages:
+
+- http://www-pdg.lbl.gov/
 
 And last but not least, the most beautiful online book:
 
