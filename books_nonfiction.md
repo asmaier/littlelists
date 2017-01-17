@@ -6,18 +6,34 @@ Year | Title | Info
 2015  | [Thiel: Zero to One](https://www.amazon.de/Zero-One-Notes-Start-Future/dp/0753555204/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Zero_to_One
 2011  | [Ries: The lean startup](https://www.amazon.de/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Lean_Startup
 
+## Behavioral economics
+Year | Title | Info 
+------|-------|------
+2012  | [Kahneman: Thinking, Fast and Slow](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/tag=maierandi-21) | https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+2010  | [Heath: Made to Stick](https://www.amazon.de/Made-Stick-Ideas-Survive-Others/dp/0812982002/tag=maierandi-21) | https://en.wikipedia.org/wiki/Made_to_Stick
+2009  | [Thaler: Nudge](https://www.amazon.de/Nudge-Improving-Decisions-Health-Happiness/dp/0141040017/tag=maierandi-21) | https://en.wikipedia.org/wiki/Nudge_(book)
+2007  | [Surowiecki: Die Weisheit der Vielen](https://www.amazon.de/Die-Weisheit-Vielen-Gruppen-Einzelne/dp/3442154464/tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
+
 ## Family
 Year | Title | Info 
 ------|-------|------
 2013  | [Groß: Geldanlage für Faule](https://www.amazon.de/Geldanlage-für-Faule-aktualisierte-Auflage/dp/3868513698/?tag=maierandi-21) | Doesn't work, if the interest rates are so low as they are nowadays
 2011  | [Hodgkinson: Leitfaden für faule Eltern](https://www.amazon.de/Leitfaden-für-faule-Eltern-Hodgkinson/dp/3499626721/?tag=maierandi-21) | "Leave the kids alone"
-2010  | [Busemann: Papa To Go](https://www.amazon.de/Papa-Go-Schnellkurs-werdende-Väter-ebook/dp/B004P1JBKU/?tag=maierandi-21) | A nice gift
+2010  | [Busemann: Papa To Go](https://www.amazon.de/Papa-Go-Schnellkurs-werdende-V-ter/dp/344217113X/?tag=maierandi-21) | A nice gift
 
 ## Health
 Year | Title | Info 
 ------|-------|------
 2009  | [Ackerman: 24 Stunden](https://www.amazon.de/24-Stunden-Leben-deines-Körpers/dp/3498000780/?tag=maierandi-21) | http://www.nytimes.com/2007/12/16/books/review/Dunn2-t.html
 2007  | [Spitzer: Lernen](https://www.amazon.de/Lernen-Gehirnforschung-die-Schule-Lebens/dp/3827417236/?tag=maierandi-21) | Important insights from neuroscience on how our brain works and learns
+
+## History
+Year | Title | Info 
+------|-------|------
+2005  | [Mähr: Vergessene Erfindungen](https://www.amazon.de/Vergessene-Erfindungen-Warum-fährt-Natronlok/dp/3832177442/?tag=maierandi-21)  | Forgotten inventions (Semaphore telegraph, Flettner rotor, etc.)
+2000 | [Readers Digest: Menschen die die Welt bewegten](https://www.amazon.de/geheimen-Einstein-Schumann-Magellan-Menschen/dp/3870705965/?tag=maierandi-21)  | Includes Highfield: The private lifes of Albert Einstein
+1997  | [DiTrocchio: Der große Schwindel](https://www.amazon.de/große-Schwindel-Betrug-Fälschung-Wissenschaft/dp/3593351161/?tag=maierandi-21)  | Some interesting cases of fraud in science
+1989  | [Haffner: Von Bismarck zu Hitler](https://www.amazon.de/Von-Bismarck-Hitler-Ein-R-ckblick/dp/3426300966/?tag=maierandi-21)  | The best book about the German Reich
 
 ## Philosophy
 
@@ -42,7 +58,7 @@ Year | Title | Info
 Year | Title | Info 
 ------|-------|------
 2000  | [Boeckh-Behrens: Fitness-Krafttraining](https://www.amazon.de/Fitness-Krafttraining-besten-Übungen-Methoden-Gesundheit/dp/3499194813/?tag=maierandi-21) | The scientifically proven, most effective exercises. 
-1998  | [Barteck: Fitness Manual](https://www.amazon.de/Fitness-Manual-Oliver-Barteck/dp/3895082236/?tag=maierandi-21) | Show techniques and training tips for many types of sport (Swimming, Skiing, Jogging, etc...)
+1998  | [Barteck: Fitness Manual](https://www.amazon.de/Fitness-Manual-Oliver-Barteck/dp/3895082236/?tag=maierandi-21) | Shows techniques and training tips for many types of sport (Swimming, Skiing, Jogging, etc...)
 
 ## Stock Market
 Year | Title | Info 
