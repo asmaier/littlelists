@@ -46,6 +46,7 @@ Year | Title | Info
 2008  | [Kehlmann: Die Vermessung der Welt](https://www.amazon.de/Die-Vermessung-Welt-Daniel-Kehlmann/dp/3499241005/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Die_Vermessung_der_Welt
 2006  | [Akunin: Fandorin](https://www.amazon.de/Fandorin-Boris-Akunin/dp/3866152434/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Erast_Fandorin
       | [Falkner: So ist nun mal der Russe](https://www.amazon.de/ist-nun-mal-Russe-russischen/dp/3937992049/?tag=maierandi-21) | "Wir Russen sind unserem Wesen nach Anarchisten."
+      | [LeLord: Hectors Reise](https://www.amazon.de/Hectors-Reise-oder-Suche-Glück/dp/3492248284/?tag=maierandi-21)  | Can make happy
 2005  | [Wells: Krieg der Welten](https://www.amazon.de/Krieg-Welten-detebe-H-G-Wells/dp/3257235372/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Der_Krieg_der_Welten    
 1997  | [Burgess: Uhrwerk Orange](https://www.amazon.de/Uhrwerk-Orange-Anthony-Burgess/dp/3453023889/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Uhrwerk_Orange_(Roman)
 1997  | [Dostojewskij: Die Sanfte](https://www.amazon.de/Die-Sanfte-Eine-phantastische-Erzählung/dp/325770089X/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Die_Sanfte

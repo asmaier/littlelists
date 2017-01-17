@@ -36,17 +36,23 @@ Year | Title | Info
 1989  | [Haffner: Von Bismarck zu Hitler](https://www.amazon.de/Von-Bismarck-Hitler-Ein-R-ckblick/dp/3426300966/?tag=maierandi-21)  | The best book about the German Reich
 
 ## Philosophy
-
 Year | Title | Info 
 ------|-------|------
 2013  | [Bostrom: Superintelligence](https://www.amazon.de/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies
 
 ## Politics
-
 Year | Title | Info 
 ------|-------|------
 2015  | [Brzezinski: Die einzige Weltmacht](https://www.amazon.de/Die-einzige-Weltmacht-Zbigniew-Brzezinski/dp/386445249X/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Die_einzige_Weltmacht:_Amerikas_Strategie_der_Vorherrschaft
 2007  | [Weyh: Die letzte Wahl](https://www.amazon.de/Die-letzte-Wahl-Demokratie-Bibliothek/dp/3821845856/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Die_letzte_Wahl
+
+## Psychology
+Year | Title | Info 
+------|-------|------
+2013  | [Scheich: Positives Denken macht krank](https://www.amazon.de/Positives-Denken-macht-krank-Erfolgsversprechen/dp/3943632032/?tag=maierandi-21)  | Read this, if you feel sick
+2012  | [Cain: Quiet](https://www.amazon.de/Quiet-Power-Introverts-World-Talking/dp/0307352145/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Quiet:_The_Power_of_Introverts_in_a_World_That_Can't_Stop_Talking
+2010  | [Gladwell: Überflieger](https://www.amazon.de/Überflieger-manche-Menschen-erfolgreich-andere/dp/3492258190/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Outliers_(book)
+2009  | [Watzlawick: Anleitung zum Unglücklichsein](https://www.amazon.de/Anleitung-zum-Unglücklichsein-Paul-Watzlawick/dp/3492249388/?tag=maierandi-21)  | The best book about psychology, ever
 
 ## Self-Help
 Year | Title | Info 
@@ -59,6 +65,12 @@ Year | Title | Info
 ------|-------|------
 2000  | [Boeckh-Behrens: Fitness-Krafttraining](https://www.amazon.de/Fitness-Krafttraining-besten-Übungen-Methoden-Gesundheit/dp/3499194813/?tag=maierandi-21) | The scientifically proven, most effective exercises. 
 1998  | [Barteck: Fitness Manual](https://www.amazon.de/Fitness-Manual-Oliver-Barteck/dp/3895082236/?tag=maierandi-21) | Shows techniques and training tips for many types of sport (Swimming, Skiing, Jogging, etc...)
+
+## Statistics
+Year | Title | Info 
+------|-------|------
+2015  | [Silver: The signal and the noise](https://www.amazon.de/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Signal_and_the_Noise
+1991  | [Huff: How to lie with statistics](https://www.amazon.de/How-Lie-Statistics-Penguin-Business/dp/0140136290/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics
 
 ## Stock Market
 Year | Title | Info 
