@@ -54,6 +54,11 @@ Year | Title | Info
 1997  | [DiTrocchio: Der große Schwindel](https://www.amazon.de/große-Schwindel-Betrug-Fälschung-Wissenschaft/dp/3593351161/?tag=maierandi-21)  | Some interesting cases of fraud in science
 1989  | [Haffner: Von Bismarck zu Hitler](https://www.amazon.de/Von-Bismarck-Hitler-Ein-R-ckblick/dp/3426300966/?tag=maierandi-21)  | The best book about the German Reich
 
+## Mathematics
+Year | Title | Info 
+------|-------|------
+2009  | [Wallace: Die Entdeckung des Unendlichen](https://www.amazon.de/Die-Entdeckung-Unendlichen-Cantor-Mathematik/dp/3492254934/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Everything_and_More_(book)
+
 ## Philosophy
 Year | Title | Info 
 ------|-------|------
@@ -69,6 +74,16 @@ Year | Title | Info
 1992  | [Feynman: QED](https://www.amazon.de/QED-seltsame-Theorie-Lichts-Materie/dp/3492215629/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/QED:_The_Strange_Theory_of_Light_and_Matter
 2012  | [Feynman: Vom Wesen physikalischer Gesetze](https://www.amazon.de/Vom-Wesen-physikalischer-Gesetze-deutschen/dp/3492217486/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Character_of_Physical_Law
 2003  | [Feynman: Es ist so einfach](https://www.amazon.de/Es-ist-einfach-Vergnügen-entdecken/dp/3492237738/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Pleasure_of_Finding_Things_Out
+
+### Others
+Year | Title | Info 
+------|-------|------
+2006  | [Penrose: The road to reality](https://www.amazon.de/Road-Reality-Complete-Guide-Universe/dp/0099440687/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Road_to_Reality
+2004  | [Greene: Der Stoff aus dem der Kosmos ist](https://www.amazon.de/Stoff-aus-dem-Kosmos-Beschaffenheit/dp/388680738X?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos
+2003  | [Farmelo: It must be beautiful](https://www.amazon.de/Must-Beautiful-Equations-Modern-Science/dp/1862075557/?tag=maierandi-21)  |
+2000  | [Greene: Das elegante Universum](https://www.amazon.de/Universum-Superstrings-verborgene-Dimensionen-Weltformel/dp/3886806995/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Elegant_Universe
+1998  | [Guth: The inflationary universe](https://www.amazon.de/Inflationary-Universe-Theory-Cosmic-Origins/dp/009995950X/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Inflationary_Universe
+1997  | [Hawking: Die illustrierte Kurze Geschichte der Zeit](https://www.amazon.de/illustrierte-Kurze-Geschichte-Zeit-aktualisierte/dp/3498029444?/tag=maierandi-21)  | https://en.wikipedia.org/wiki/A_Brief_History_of_Time
 
 ## Politics
 Year | Title | Info 
