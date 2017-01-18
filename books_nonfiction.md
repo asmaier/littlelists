@@ -1,5 +1,14 @@
 # Nonfiction books
 
+## General
+Year | Title | Info 
+------|-------|------
+2006  | [Fischer: Einstein, Hawking, Singh & Co.](https://www.amazon.de/Einstein-Hawking-Singh-Co-Bücher/dp/349224436X/?tag=maierandi-21)  | A book about popular science books one should know about
+
+The following lists are also interesting:
+- https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader
+- https://www.americanscientist.org/bookshelf/pub/100-or-so-books-that-shaped-a-century-of-science
+
 ## Behavioral economics
 Year | Title | Info 
 ------|-------|------
@@ -14,6 +23,7 @@ Year | Title | Info
 2010 | [Enz: No time to be brief](https://www.amazon.de/No-Time-Brief-scientific-biography/dp/0199588155/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Wolfgang_Pauli
 2009 | [Farmelo: The strangest man](https://www.amazon.de/Strangest-Man-Hidden-Quantum-English-ebook/dp/B0030UDWF2/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Paul_Dirac
 2007 | [Mlodinow: Feynmans Regenbogen](https://www.amazon.de/Feynmans-Regenbogen-Suche-Schönheit-Physik/dp/3499621770/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Leonard_Mlodinow
+2006 | [Feynman: Absolut vernünftige Abweichungen vom ausgetretenen Pfad](https://www.amazon.de/Absolut-vernünftige-Abweichungen-ausgetretenen-Pfad/dp/3492047440/?tag=maierandi-21) | A collection of letters from Richard Feynman. Wonderful.
 2001 | [Gribbin: Richard Feynman](https://www.amazon.de/Richard-Feynman-Biographie-eines-Genies/dp/3492234615/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Richard_Feynman
 2000 | [Johnson: Strange beauty](https://www.amazon.de/Strange-Beauty-Gell-Mann-Revolution-Twentieth-Century/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Murray_Gell-Mann
  | [Readers Digest: Menschen die die Welt bewegten](https://www.amazon.de/geheimen-Einstein-Schumann-Magellan-Menschen/dp/3870705965/?tag=maierandi-21)  | Includes Highfield: The private lifes of Albert Einstein
