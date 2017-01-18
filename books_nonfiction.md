@@ -3,17 +3,19 @@
 ## Behavioral economics
 Year | Title | Info 
 ------|-------|------
-2012  | [Kahneman: Thinking, Fast and Slow](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/tag=maierandi-21) | https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
-2010  | [Heath: Made to Stick](https://www.amazon.de/Made-Stick-Ideas-Survive-Others/dp/0812982002/tag=maierandi-21) | https://en.wikipedia.org/wiki/Made_to_Stick
-2009  | [Thaler: Nudge](https://www.amazon.de/Nudge-Improving-Decisions-Health-Happiness/dp/0141040017/tag=maierandi-21) | https://en.wikipedia.org/wiki/Nudge_(book)
-2007  | [Surowiecki: Die Weisheit der Vielen](https://www.amazon.de/Die-Weisheit-Vielen-Gruppen-Einzelne/dp/3442154464/tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
+2012  | [Kahneman: Thinking, Fast and Slow](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+2010  | [Heath: Made to Stick](https://www.amazon.de/Made-Stick-Ideas-Survive-Others/dp/0812982002/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Made_to_Stick
+2009  | [Thaler: Nudge](https://www.amazon.de/Nudge-Improving-Decisions-Health-Happiness/dp/0141040017/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Nudge_(book)
+2007  | [Surowiecki: Die Weisheit der Vielen](https://www.amazon.de/Die-Weisheit-Vielen-Gruppen-Einzelne/dp/3442154464/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
 
 ## Biography
 Year | Title | Info 
 ------|-------|------
-2010 | [Enz: No time to be brief](https://www.amazon.de/No-Time-Brief-scientific-biography/dp/0199588155//tag=maierandi-21) | https://en.wikipedia.org/wiki/Wolfgang_Pauli
-2009 | [Farmelo: The strangest man](https://www.amazon.de/Strangest-Man-Hidden-Quantum-English-ebook/dp/B0030UDWF2/tag=maierandi-21) | https://en.wikipedia.org/wiki/Paul_Dirac
-2000 | [Johnson: Strange beauty](https://www.amazon.de/Strange-Beauty-Gell-Mann-Revolution-Twentieth-Century/tag=maierandi-21) | https://en.wikipedia.org/wiki/Murray_Gell-Mann
+2010 | [Enz: No time to be brief](https://www.amazon.de/No-Time-Brief-scientific-biography/dp/0199588155/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Wolfgang_Pauli
+2009 | [Farmelo: The strangest man](https://www.amazon.de/Strangest-Man-Hidden-Quantum-English-ebook/dp/B0030UDWF2/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Paul_Dirac
+2007 | [Mlodinow: Feynmans Regenbogen](https://www.amazon.de/Feynmans-Regenbogen-Suche-Schönheit-Physik/dp/3499621770/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Leonard_Mlodinow
+2001 | [Gribbin: Richard Feynman](https://www.amazon.de/Richard-Feynman-Biographie-eines-Genies/dp/3492234615/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Richard_Feynman
+2000 | [Johnson: Strange beauty](https://www.amazon.de/Strange-Beauty-Gell-Mann-Revolution-Twentieth-Century/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Murray_Gell-Mann
  | [Readers Digest: Menschen die die Welt bewegten](https://www.amazon.de/geheimen-Einstein-Schumann-Magellan-Menschen/dp/3870705965/?tag=maierandi-21)  | Includes Highfield: The private lifes of Albert Einstein
 
 ## Business
