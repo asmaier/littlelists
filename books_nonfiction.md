@@ -77,6 +77,7 @@ Year | Title | Info
 Year | Title | Info 
 ------|-------|------
 2015  | [Silver: The signal and the noise](https://www.amazon.de/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Signal_and_the_Noise
+2011  | [Mlodinow: Wenn Gott würfelt](https://www.amazon.de/Wenn-Gott-w-rfelt-Zufall-bestimmt/dp/3499625512/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Drunkard%27s_Walk
 1991  | [Huff: How to lie with statistics](https://www.amazon.de/How-Lie-Statistics-Penguin-Business/dp/0140136290/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/How_to_Lie_with_Statistics
 
 ## Stock Market
