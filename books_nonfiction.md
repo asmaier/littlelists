@@ -78,12 +78,17 @@ Year | Title | Info
 ### Others
 Year | Title | Info 
 ------|-------|------
+2011  | [Close: The infinity puzzle](https://www.amazon.de/Infinity-Puzzle-understand-extraordinary-experiment/dp/0199593507/?tag=maierandi-21)  | The most detailed popular history of post-war particle physics
+2010  | [Susskind: Der Krieg um das Schwarze Loch](https://www.amazon.de/Krieg-das-Schwarze-Loch-Quantenmechanik/dp/3518422057/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Black_Hole_War
+2007  | [Smolin: The trouble with physics](https://www.amazon.de/Trouble-Physics-String-Theory-Science/dp/061891868X/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Trouble_with_Physics
+      | [Woit: Not even wrong](https://www.amazon.de/Not-Even-Wrong-Failure-Physical/dp/0465092764/?tag=maierandi-21)  | This book is "Not even wrong"
 2006  | [Penrose: The road to reality](https://www.amazon.de/Road-Reality-Complete-Guide-Universe/dp/0099440687/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Road_to_Reality
 2004  | [Greene: Der Stoff aus dem der Kosmos ist](https://www.amazon.de/Stoff-aus-dem-Kosmos-Beschaffenheit/dp/388680738X?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos
 2003  | [Farmelo: It must be beautiful](https://www.amazon.de/Must-Beautiful-Equations-Modern-Science/dp/1862075557/?tag=maierandi-21)  |
 2000  | [Greene: Das elegante Universum](https://www.amazon.de/Universum-Superstrings-verborgene-Dimensionen-Weltformel/dp/3886806995/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Elegant_Universe
 1998  | [Guth: The inflationary universe](https://www.amazon.de/Inflationary-Universe-Theory-Cosmic-Origins/dp/009995950X/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Inflationary_Universe
 1997  | [Hawking: Die illustrierte Kurze Geschichte der Zeit](https://www.amazon.de/illustrierte-Kurze-Geschichte-Zeit-aktualisierte/dp/3498029444?/tag=maierandi-21)  | https://en.wikipedia.org/wiki/A_Brief_History_of_Time
+1995  | [Gell-Mann: Quark and Jaguar](https://www.amazon.de/Quark-Jaguar-Adventures-Simple-Complex/dp/0805072535/?tag=maierandi-21)  | Highly underrated. The popular science book with the highest information density.
 
 ## Politics
 Year | Title | Info 
