@@ -1,11 +1,5 @@
 # Nonfiction books
 
-## Business
-Year | Title | Info 
-------|-------|------
-2015  | [Thiel: Zero to One](https://www.amazon.de/Zero-One-Notes-Start-Future/dp/0753555204/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Zero_to_One
-2011  | [Ries: The lean startup](https://www.amazon.de/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Lean_Startup
-
 ## Behavioral economics
 Year | Title | Info 
 ------|-------|------
@@ -13,6 +7,20 @@ Year | Title | Info
 2010  | [Heath: Made to Stick](https://www.amazon.de/Made-Stick-Ideas-Survive-Others/dp/0812982002/tag=maierandi-21) | https://en.wikipedia.org/wiki/Made_to_Stick
 2009  | [Thaler: Nudge](https://www.amazon.de/Nudge-Improving-Decisions-Health-Happiness/dp/0141040017/tag=maierandi-21) | https://en.wikipedia.org/wiki/Nudge_(book)
 2007  | [Surowiecki: Die Weisheit der Vielen](https://www.amazon.de/Die-Weisheit-Vielen-Gruppen-Einzelne/dp/3442154464/tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
+
+## Biography
+Year | Title | Info 
+------|-------|------
+2010 | [Enz: No time to be brief](https://www.amazon.de/No-Time-Brief-scientific-biography/dp/0199588155//tag=maierandi-21) | https://en.wikipedia.org/wiki/Wolfgang_Pauli
+2009 | [Farmelo: The strangest man](https://www.amazon.de/Strangest-Man-Hidden-Quantum-English-ebook/dp/B0030UDWF2/tag=maierandi-21) | https://en.wikipedia.org/wiki/Paul_Dirac
+2000 | [Johnson: Strange beauty](https://www.amazon.de/Strange-Beauty-Gell-Mann-Revolution-Twentieth-Century/tag=maierandi-21) | https://en.wikipedia.org/wiki/Murray_Gell-Mann
+ | [Readers Digest: Menschen die die Welt bewegten](https://www.amazon.de/geheimen-Einstein-Schumann-Magellan-Menschen/dp/3870705965/?tag=maierandi-21)  | Includes Highfield: The private lifes of Albert Einstein
+
+## Business
+Year | Title | Info 
+------|-------|------
+2015  | [Thiel: Zero to One](https://www.amazon.de/Zero-One-Notes-Start-Future/dp/0753555204/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Zero_to_One
+2011  | [Ries: The lean startup](https://www.amazon.de/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Lean_Startup
 
 ## Family
 Year | Title | Info 
@@ -31,7 +39,6 @@ Year | Title | Info
 Year | Title | Info 
 ------|-------|------
 2005  | [Mähr: Vergessene Erfindungen](https://www.amazon.de/Vergessene-Erfindungen-Warum-fährt-Natronlok/dp/3832177442/?tag=maierandi-21)  | Forgotten inventions (Semaphore telegraph, Flettner rotor, etc.)
-2000 | [Readers Digest: Menschen die die Welt bewegten](https://www.amazon.de/geheimen-Einstein-Schumann-Magellan-Menschen/dp/3870705965/?tag=maierandi-21)  | Includes Highfield: The private lifes of Albert Einstein
 1997  | [DiTrocchio: Der große Schwindel](https://www.amazon.de/große-Schwindel-Betrug-Fälschung-Wissenschaft/dp/3593351161/?tag=maierandi-21)  | Some interesting cases of fraud in science
 1989  | [Haffner: Von Bismarck zu Hitler](https://www.amazon.de/Von-Bismarck-Hitler-Ein-R-ckblick/dp/3426300966/?tag=maierandi-21)  | The best book about the German Reich
 
