@@ -59,6 +59,17 @@ Year | Title | Info
 ------|-------|------
 2013  | [Bostrom: Superintelligence](https://www.amazon.de/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies
 
+## Physics
+### Feynman
+Year | Title | Info 
+------|-------|------
+1992  | [Feynman, Surely, You're joking Mr. Feynman](https://www.amazon.de/Surely-Youre-Joking-Feynman-Adventures/dp/009917331X/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Surely_You're_Joking,_Mr._Feynman!
+2002  | [Feynman: Was soll das alles](https://www.amazon.de/Was-soll-das-alles-Physikers/dp/3492044727/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Meaning_of_It_All
+2005  | [Feynman, Kümmert sie, was andere Leute denken?](https://www.amazon.de/Kümmert-Sie-andere-Leute-denken/dp/3492221661/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/What_Do_You_Care_What_Other_People_Think%3F
+1992  | [Feynman: QED](https://www.amazon.de/QED-seltsame-Theorie-Lichts-Materie/dp/3492215629/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/QED:_The_Strange_Theory_of_Light_and_Matter
+2012  | [Feynman: Vom Wesen physikalischer Gesetze](https://www.amazon.de/Vom-Wesen-physikalischer-Gesetze-deutschen/dp/3492217486/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Character_of_Physical_Law
+2003  | [Feynman: Es ist so einfach](https://www.amazon.de/Es-ist-einfach-Vergnügen-entdecken/dp/3492237738/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Pleasure_of_Finding_Things_Out
+
 ## Politics
 Year | Title | Info 
 ------|-------|------
