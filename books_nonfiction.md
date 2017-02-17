@@ -12,7 +12,7 @@ The following lists are also interesting:
 ## Behavioral economics
 Year | Title | Info 
 ------|-------|------
-2012  | [Kahneman: Thinking, Fast and Slow](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+2012  | [Kahneman: Thinking, Fast and Slow](https://www.amazon.de/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow (but see this [critique](https://replicationindex.wordpress.com/2017/02/02/reconstruction-of-a-train-wreck-how-priming-research-went-of-the-rails/#comment-1454).)
 2010  | [Heath: Made to Stick](https://www.amazon.de/Made-Stick-Ideas-Survive-Others/dp/0812982002/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Made_to_Stick
 2009  | [Thaler: Nudge](https://www.amazon.de/Nudge-Improving-Decisions-Health-Happiness/dp/0141040017/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Nudge_(book)
 2007  | [Surowiecki: Die Weisheit der Vielen](https://www.amazon.de/Die-Weisheit-Vielen-Gruppen-Einzelne/dp/3442154464/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Wisdom_of_Crowds
