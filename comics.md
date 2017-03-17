@@ -9,7 +9,7 @@
 1970|[Yoko Tsuno](https://www.amazon.de/Yoko-Tsuno-Bd-11-Die-Zeitspirale/dp/3551021317/?tag=maierandi-21)|https://en.wikipedia.org/wiki/Yoko_Tsuno
 1959|[Asterix](https://www.amazon.de/Asterix-01-Gallier-René-Goscinny/dp/3770436016/?tag=maierandi-21)|https://en.wikipedia.org/wiki/Asterix
 1958|[Lucky Luke](https://www.amazon.de/Lucky-Luke-15-Die-Postkutsche/dp/3770401263/?tag=maierandi-21)|https://en.wikipedia.org/wiki/Lucky_Luke
- |[Die Schlümpfe](https://www.amazon.de/Schlümpfe-Die-Band-Blauschlümpfe-Schwarzschlümpfe/dp/3868699554/?tag=maierandi-21)|https://en.wikipedia.org/wiki/The_Smurfs
+1958|[Die Schlümpfe](https://www.amazon.de/Schlümpfe-Die-Band-Blauschlümpfe-Schwarzschlümpfe/dp/3868699554/?tag=maierandi-21)|https://en.wikipedia.org/wiki/The_Smurfs
 1946|[Blake and Mortimer](https://www.amazon.de/Die-Abenteuer-Blake-Mortimer-Band/dp/3551019975/?tag=maierandi-21)| https://en.wikipedia.org/wiki/Blake_and_Mortimer
 1939|[Spirou and Fantasio](https://www.amazon.de/Spirou-Fantasio-01-Zauberer-Rummelsdorf/dp/3551772010/?tag=maierandi-21)|https://en.wikipedia.org/wiki/Spirou_et_Fantasio
 1929|[The Adventures of Tintin](https://www.amazon.de/Tim-Struppi-Band-Lande-Sowjets/dp/3551732205/?tag=maierandi-21)|https://en.wikipedia.org/wiki/The_Adventures_of_Tintin
