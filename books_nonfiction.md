@@ -26,7 +26,7 @@ Year | Title | Info
 2006 | [Feynman: Absolut vernünftige Abweichungen vom ausgetretenen Pfad](https://www.amazon.de/Absolut-vernünftige-Abweichungen-ausgetretenen-Pfad/dp/3492047440/?tag=maierandi-21) | A collection of letters from Richard Feynman. Wonderful.
 2001 | [Gribbin: Richard Feynman](https://www.amazon.de/Richard-Feynman-Biographie-eines-Genies/dp/3492234615/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Richard_Feynman
 2000 | [Johnson: Strange beauty](https://www.amazon.de/Strange-Beauty-Gell-Mann-Revolution-Twentieth-Century/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Murray_Gell-Mann
- | [Readers Digest: Menschen die die Welt bewegten](https://www.amazon.de/geheimen-Einstein-Schumann-Magellan-Menschen/dp/3870705965/?tag=maierandi-21)  | Includes Highfield: The private lifes of Albert Einstein
+2000 | [Readers Digest: Menschen die die Welt bewegten](https://www.amazon.de/geheimen-Einstein-Schumann-Magellan-Menschen/dp/3870705965/?tag=maierandi-21)  | Includes Highfield: The private lifes of Albert Einstein
 
 ## Business
 Year | Title | Info 
@@ -81,7 +81,7 @@ Year | Title | Info
 2011  | [Close: The infinity puzzle](https://www.amazon.de/Infinity-Puzzle-understand-extraordinary-experiment/dp/0199593507/?tag=maierandi-21)  | The most detailed popular history of post-war particle physics
 2010  | [Susskind: Der Krieg um das Schwarze Loch](https://www.amazon.de/Krieg-das-Schwarze-Loch-Quantenmechanik/dp/3518422057/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Black_Hole_War
 2007  | [Smolin: The trouble with physics](https://www.amazon.de/Trouble-Physics-String-Theory-Science/dp/061891868X/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Trouble_with_Physics
-      | [Woit: Not even wrong](https://www.amazon.de/Not-Even-Wrong-Failure-Physical/dp/0465092764/?tag=maierandi-21)  | This book is "Not even wrong"
+2007  | [Woit: Not even wrong](https://www.amazon.de/Not-Even-Wrong-Failure-Physical/dp/0465092764/?tag=maierandi-21)  | This book is "Not even wrong"
 2006  | [Penrose: The road to reality](https://www.amazon.de/Road-Reality-Complete-Guide-Universe/dp/0099440687/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/The_Road_to_Reality
 2004  | [Greene: Der Stoff aus dem der Kosmos ist](https://www.amazon.de/Stoff-aus-dem-Kosmos-Beschaffenheit/dp/388680738X?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos
 2003  | [Farmelo: It must be beautiful](https://www.amazon.de/Must-Beautiful-Equations-Modern-Science/dp/1862075557/?tag=maierandi-21)  |
