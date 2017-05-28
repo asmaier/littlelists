@@ -126,6 +126,7 @@ Year | Title | Info
 ## Stock Market
 Year | Title | Info 
 ------|-------|------
+2011  | [Mallaby: More Money than God](https://www.amazon.de/More-Money-Than-God-Relations/dp/0143119419/?tag=maierandi-21) | The history of the Hedge Fund Industry. Some rare insights into https://en.wikipedia.org/wiki/Renaissance_Technologies 
 2008  | [Mandelbrot: The (Mis)Behaviour of Markets](https://www.amazon.de/Mis-Behaviour-Markets-Fractal-Reward/dp/1846682622/?tag=maierandi-21)  | The "father of fractals" explains the stock markets behaviour
 2007  | [Taleb: Fooled by Randomness](https://www.amazon.de/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Fooled_by_Randomness
 2006  | [Poundstone: Fortune's Formula](https://www.amazon.de/Fortunes-Formula-Scientific-Betting-Casinos/dp/0809045990/?tag=maierandi-21) | The amazing story of https://en.wikipedia.org/wiki/Claude_Shannon, https://en.wikipedia.org/wiki/Kelly_criterion, https://en.wikipedia.org/wiki/Edward_O._Thorp and the hedgefond https://en.wikipedia.org/wiki/Princeton_Newport_Partners
