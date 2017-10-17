@@ -10,7 +10,7 @@
 2011  | [Krüger: Handbuch der Java-Programmierung](https://www.amazon.de/Handbuch-Java-Programmierung-HTML-Version-Standard-Programmers/dp/3827327512/?tag=maierandi-21) | Best introduction to object oriented programming for Java in German
 2011  | [Owen: Mahout in Action](https://www.amazon.de/Mahout-Action-Sean-Owen/dp/1935182684/?tag=maierandi-21) | Large scale machine learning
 2011  | [Sedgewick: Algorithms](https://www.amazon.de/Algorithms-Robert-Sedgewick/dp/032157351X/?tag=maierandi-21) | Best book on algorithms, because it shows real Java code, not just pseudocode
-2008  | [Bloch: Effective Java (2nd Edition)](https://www.amazon.de/Effective-Java-2nd-Programming-Language/dp/0321356683/?tag=maierandi-21) | A senior Java developers must have read this book
+2008  | [Bloch: Effective Java (2nd Edition)](https://www.amazon.de/Effective-Java-2nd-Programming-Language/dp/0321356683/?tag=maierandi-21) | A senior Java developer must have read this book
 2008  | [Martin: Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Clean_Code
 2007  | [Chapman: Fortran 95/2003 for Scientists and Engineers](https://www.amazon.de/Fortran-95-2003-Scientists-Engineers/dp/0073191574/?tag=maierandi-21) | Best book on modern Fortran
 2007  | [Segaran: Programming Collective Intelligence](https://www.amazon.de/Programming-Collective-Intelligence-published-September/dp/B01M0ZDFPI/?tag=maierandi-21) | Perfect book about data mining and machine learning with Python
