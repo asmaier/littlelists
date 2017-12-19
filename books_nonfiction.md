@@ -107,12 +107,14 @@ Year | Title | Info
 ## Self-Help
 Year | Title | Info 
 ------|-------|------
+2014  | [Maurer: One small step can change your life](https://www.amazon.de/Small-Step-Change-Your-Life/dp/076118032X/?tag=maierandi-21) | Achieving lasting success through small, steady steps    
 2013  | [Guise: Mini Habits](https://www.amazon.de/Mini-Habits-Smaller-Bigger-Results/dp/1494882272/?tag=maierandi-21) | Mini Habits are "too small to fail", so one can do them every day
 2003  | [Kingston: Feng Shui gegen das Gerümpel des Alltags](https://www.amazon.de/Gerümpel-Alltags-Richtig-ausmisten-Gerümpelfrei/dp/3499613999/?tag=maierandi-21) | I should read this book again
 
 ## Sport
 Year | Title | Info 
 ------|-------|------
+2011  | [Lauren: Fit ohne Geräte](https://www.amazon.de/gp/product/3868831665/?tag=maierandi-21) | Very good an challenging home workout routines 
 2000  | [Boeckh-Behrens: Fitness-Krafttraining](https://www.amazon.de/Fitness-Krafttraining-besten-Übungen-Methoden-Gesundheit/dp/3499194813/?tag=maierandi-21) | The scientifically proven, most effective exercises. 
 1998  | [Barteck: Fitness Manual](https://www.amazon.de/Fitness-Manual-Oliver-Barteck/dp/3895082236/?tag=maierandi-21) | Shows techniques and training tips for many types of sport (Swimming, Skiing, Jogging, etc...)
 

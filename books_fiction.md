@@ -42,6 +42,9 @@ Year | Title | Info
 
  Year | Title | Info 
 ------|-------|------
+2016  | [Liu: Death's end](https://www.amazon.de/Three-Body-Problem-3-Deaths-End/dp/1784971650/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Death%27s_End
+2015  | [Liu: The dark forrest](https://www.amazon.de/Three-Body-Problem-2-Dark-Forest/dp/1784971618/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Dark_Forest
+2014  | [Liu: The three body problem](https://www.amazon.de/Three-Body-Problem-1-Cixin-Liu/dp/178497157X/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
 2013  | [Waugh: Scoop](https://www.amazon.de/Scoop-detebe-Evelyn-Waugh/dp/3257242743/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Scoop_(Roman)
 2008  | [Kehlmann: Die Vermessung der Welt](https://www.amazon.de/Die-Vermessung-Welt-Daniel-Kehlmann/dp/3499241005/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Die_Vermessung_der_Welt
 2006  | [Akunin: Fandorin](https://www.amazon.de/Fandorin-Boris-Akunin/dp/3866152434/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Erast_Fandorin
