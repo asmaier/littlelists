@@ -2,6 +2,7 @@
 
  Year | Title | Info 
 ------|-------|------
+2016  | [Edelhäuser, Knochel: Tutorium Quantenfeldtheorie](https://www.amazon.de/Tutorium-Quantenfeldtheorie-wissen-wollten-bisher/dp/3642376754/?tag=maierandi-21) | Very modern view and good addon for students of QFT
 2015  | [Lancaster: Quantum Field Theory for the Gifted Amateur](https://www.amazon.de/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X/?tag=maierandi-21) | Best explanation of the occupation number representation 
 2014  | [Stöcker: Taschenbuch der Physik](https://www.amazon.de/Taschenbuch-Physik-Horst-Stöcker/dp/3808556757/?tag=maierandi-21) | The "Bronstein" of physics
 2013  | [Feynman, Tips on Physics](https://www.amazon.de/Feynmans-Tips-Physics-Reflections-Insights/dp/0465027970/?tag=maierandi-21)  | Addon to the famous lectures
