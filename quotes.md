@@ -145,3 +145,11 @@
 > possibility that he is right.
 >
 > -- <cite>*Antony Jay*</cite>
+
+---
+
+> Der erste Trunk aus dem Becher der Naturwissenschaft macht atheistisch, 
+> aber auf dem Grunde des Bechers wartet Gott.
+>
+> --<cite>*Werner Heisenberg*</cite>
+
