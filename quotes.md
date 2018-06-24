@@ -61,6 +61,12 @@
 
 ---
 
+> For a successful technology, reality must take precedence over public relations, for nature cannot be fooled.
+> 
+> -- <cite>*Richard Feynman*</cite>
+
+---
+
 > Complex models are rarely useful (unless for those writing their dissertations).
 >
 > -- <cite>*Vladimir Arnold*</cite>
