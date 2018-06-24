@@ -31,6 +31,7 @@ Year | Title | Info
 ## Business
 Year | Title | Info 
 ------|-------|------
+2018  | [Hansen: Great at Work](https://www.amazon.de/Great-Work-Performers-Better-Achieve/dp/1471149072/?tag=maierandi-21) | Seven principles on how to be successful at work supported by statistics
 2015  | [Thiel: Zero to One](https://www.amazon.de/Zero-One-Notes-Start-Future/dp/0753555204/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Zero_to_One
 2011  | [Ries: The lean startup](https://www.amazon.de/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Lean_Startup
 
@@ -128,6 +129,7 @@ Year | Title | Info
 ## Stock Market
 Year | Title | Info 
 ------|-------|------
+2016  | [Hagstrom: Warren Buffett](https://www.amazon.de/Warren-Buffett-Seine-Methode-Strategie/dp/3864703751/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Warren_Buffett_Way 
 2011  | [Mallaby: More Money than God](https://www.amazon.de/More-Money-Than-God-Relations/dp/0143119419/?tag=maierandi-21) | The history of the Hedge Fund Industry. Some rare insights into https://en.wikipedia.org/wiki/Renaissance_Technologies 
 2008  | [Mandelbrot: The (Mis)Behaviour of Markets](https://www.amazon.de/Mis-Behaviour-Markets-Fractal-Reward/dp/1846682622/?tag=maierandi-21)  | The "father of fractals" explains the stock markets behaviour
 2007  | [Taleb: Fooled by Randomness](https://www.amazon.de/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Fooled_by_Randomness
