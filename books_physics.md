@@ -2,12 +2,15 @@
 
  Year | Title | Info 
 ------|-------|------
+2017  | [Schwichtenberg: Physics from Symmetry](https://www.amazon.de/Physics-Symmetry-Undergraduate-Lecture-Notes/dp/3319666304/?tag=maierandi-21) | Ambitious book by a very young author. 
 2016  | [Edelhäuser, Knochel: Tutorium Quantenfeldtheorie](https://www.amazon.de/Tutorium-Quantenfeldtheorie-wissen-wollten-bisher/dp/3642376754/?tag=maierandi-21) | Very modern view and good addon for students of QFT
 2015  | [Lancaster: Quantum Field Theory for the Gifted Amateur](https://www.amazon.de/Quantum-Field-Theory-Gifted-Amateur/dp/019969933X/?tag=maierandi-21) | Best explanation of the occupation number representation 
 2014  | [Stöcker: Taschenbuch der Physik](https://www.amazon.de/Taschenbuch-Physik-Horst-Stöcker/dp/3808556757/?tag=maierandi-21) | The "Bronstein" of physics
 2013  | [Feynman, Tips on Physics](https://www.amazon.de/Feynmans-Tips-Physics-Reflections-Insights/dp/0465027970/?tag=maierandi-21)  | Addon to the famous lectures
 2013  | [McMahon: Quantum Mechanics Demystified](https://www.amazon.de/Quantum-Mechanics-Demystified-David-McMahon/dp/0071765638/?tag=maierandi-21) | Really simple step-by-step calculations
 2013  | [Schwartz: Quantum Field Theory and the Standard Model](https://www.amazon.de/Quantum-Field-Theory-Standard-Model/dp/1107034736/?tag=maierandi-21) | Most modern view of QFT. Praised by Edward Witten.
+2013  | [Enz: Wolfgang Pauli - Das Gewissen der Physik](https://www.amazon.de/Wolfgang-Pauli-Gewissen-Physik-German/dp/3322902714/?tag=maierandi-21) | Wonderful collection of texts from and about Pauli. It includes many of his original publications. A gem!
+2011  | [Hawking: The Dreams That Stuff Is Made Of](https://www.amazon.de/Dreams-That-Stuff-Made-Physics/dp/0762434341/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Dreams_That_Stuff_Is_Made_Of
 2010  | [Feynman: Quantum Mechanics and Path Integrals](https://www.amazon.de/Dover-Books-Physics-Mechanics-Integrals/dp/0486477223/?tag=maierandi-21) | Path integrals explained by their inventor - Important reference
 2008  | [McMahon: Quantum Field Theory Demystified](https://www.amazon.de/Quantum-Field-Theory-Demystified-Self-Teaching/dp/0071543821/?tag=maierandi-21) | Really simple step-by-step calculations
 2008  | [McMahon: String Theory Demystified](https://www.amazon.de/String-Theory-Demystified-David-McMahon/dp/0071498702//?tag=maierandi-21) | Probably the simplest introduction to String theory ever written

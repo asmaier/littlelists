@@ -64,6 +64,7 @@ Year | Title | Info
 Year | Title | Info 
 ------|-------|------
 2013  | [Bostrom: Superintelligence](https://www.amazon.de/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Superintelligence:_Paths,_Dangers,_Strategies
+2010  | [Lao Tse: Tao-Te-King](https://www.amazon.de/Tao-Te-King-detebe-Band-21875-Lao/dp/3257218753/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Daodejing
 
 ## Physics
 ### Feynman
@@ -135,4 +136,7 @@ Year | Title | Info
 2007  | [Taleb: Fooled by Randomness](https://www.amazon.de/Fooled-Randomness-Hidden-Chance-Markets/dp/0141031484/?tag=maierandi-21)  | https://en.wikipedia.org/wiki/Fooled_by_Randomness
 2006  | [Poundstone: Fortune's Formula](https://www.amazon.de/Fortunes-Formula-Scientific-Betting-Casinos/dp/0809045990/?tag=maierandi-21) | The amazing story of https://en.wikipedia.org/wiki/Claude_Shannon, https://en.wikipedia.org/wiki/Kelly_criterion, https://en.wikipedia.org/wiki/Edward_O._Thorp and the hedgefond https://en.wikipedia.org/wiki/Princeton_Newport_Partners
 
-
+## Travel
+Year | Title | Info 
+------|-------|------
+2010 | [Rademacher: Das Buch für Berlinhasser](https://www.amazon.de/Das-Buch-f%C3%BCr-Berlinhasser-Liebeserkl%C3%A4rung/dp/3814801768/?tag=maierandi-21) | Mandatory reading about Berlin, unfortunately some parts are already outdated and nowadays even worse than described.
