@@ -3,8 +3,7 @@
  Year | Title | Info 
 ------|-------|------
 2016  | [Bronstein: Taschenbuch der Mathematik](https://www.amazon.de/Taschenbuch-Mathematik-Bronstein-Multiplattform-CD-ROM-DeskTop/dp/3808557907/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Taschenbuch_der_Mathematik
-2014  | [Bosch: Lineare Algebra](https://www.amazon.de/Lineare-Algebra-Springer-Lehrbuch-Siegfried-Bosch/dp/3642552595/?tag=maierandi-21) | Quite terrible book on linear algebra 
-(examples? never!). But one of the few books where you can learn about https://en.wikipedia.org/wiki/Companion_matrix  
+2014  | [Bosch: Lineare Algebra](https://www.amazon.de/Lineare-Algebra-Springer-Lehrbuch-Siegfried-Bosch/dp/3642552595/?tag=maierandi-21) | Quite terrible book on linear algebra (examples? never!). But one of the few books where you can learn about https://en.wikipedia.org/wiki/Companion_matrix  
 2013  | [Cahill: Physical Mathematics](https://www.amazon.de/Physical-Mathematics-Kevin-Cahill/dp/1107005213/?tag=maierandi-21) | Advanced topics like differential forms, path integrals, renormalization group, chaos and string theory.
 2013  | [Havil: Gamma](https://www.amazon.de/GAMMA-Konstante-Primzahlstr%C3%A4nde-Riemannsche-Vermutung/dp/3642366279/?tag=maierandi-21) | http://www.spektrum.de/rezension/gamma/895012
 2010  | [Stillwell: Mathematics and Its History](https://www.amazon.de/Mathematics-Its-History-Undergraduate-Texts/dp/144196052X/?tag=maierandi-21) | Quite unique account of the historical development of mathematics. 
