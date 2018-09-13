@@ -153,3 +153,17 @@
 >
 > --<cite>*Werner Heisenberg*</cite>
 
+---
+
+> We are a way for the Cosmos to know itself.
+>
+> --<cite>*Carl Sagan*</cite>
+
+---
+
+> The idea that God is an oversized white male with a flowing beard who
+> sits in the sky and tallies the fall of every sparrow is ludicrous.
+> But if by God one means the set of physical laws that govern the
+> universe, then clearly there is such a God.
+>
+> --<cite>*Carl Sagan*</cite>
