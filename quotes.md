@@ -134,9 +134,9 @@
 
 ---
 
-> It is allowed to kill oneself, but not recommended!
+> If you wish to make an apple pie from scratch, you must first invent the universe.
 >
-> -- <cite>*Unbekannt*</cite>
+> -- <cite>*Carl Sagan*</cite>
 
 ---
 
