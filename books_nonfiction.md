@@ -7,7 +7,7 @@ Year | Title | Info
 
 The following lists are also interesting:
 - https://www.theguardian.com/books/2015/apr/03/steven-weinberg-13-best-science-books-general-reader
-- https://www.americanscientist.org/bookshelf/pub/100-or-so-books-that-shaped-a-century-of-science
+- https://web.archive.org/web/20170617002919/http://www.americanscientist.org/bookshelf/pub/100-or-so-books-that-shaped-a-century-of-science
 
 ## Behavioral economics
 Year | Title | Info 
