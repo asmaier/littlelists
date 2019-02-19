@@ -20,6 +20,7 @@ Year | Title | Info
 ## Biography
 Year | Title | Info 
 ------|-------|------
+2016 | [Ono: My Search for Ramanujan](https://www.amazon.de/My-Search-Ramanujan-Learned-Count/dp/3319255665/?tag=maierandi-21) | An autobiography of mathematician Ken Ono and how the legend of Ramanujan influenced his life
 2010 | [Enz: No time to be brief](https://www.amazon.de/No-Time-Brief-scientific-biography/dp/0199588155/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Wolfgang_Pauli
 2009 | [Farmelo: The strangest man](https://www.amazon.de/Strangest-Man-Hidden-Quantum-English-ebook/dp/B0030UDWF2/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Paul_Dirac
 2007 | [Mlodinow: Feynmans Regenbogen](https://www.amazon.de/Feynmans-Regenbogen-Suche-Schönheit-Physik/dp/3499621770/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Leonard_Mlodinow
@@ -27,6 +28,7 @@ Year | Title | Info
 2001 | [Gribbin: Richard Feynman](https://www.amazon.de/Richard-Feynman-Biographie-eines-Genies/dp/3492234615/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Richard_Feynman
 2000 | [Johnson: Strange beauty](https://www.amazon.de/Strange-Beauty-Gell-Mann-Revolution-Twentieth-Century/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Murray_Gell-Mann
 2000 | [Readers Digest: Menschen die die Welt bewegten](https://www.amazon.de/geheimen-Einstein-Schumann-Magellan-Menschen/dp/3870705965/?tag=maierandi-21)  | Includes Highfield: The private lifes of Albert Einstein
+1994 | [Mehra: The Beat of a Different Drum](https://www.amazon.de/Beat-Different-Drum-Science-Richard/dp/0198539487/?tag=maierandi-21) | A detailed scientific biography of Richard Feynman 
 
 ## Business
 Year | Title | Info 
