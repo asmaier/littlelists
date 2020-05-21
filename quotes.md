@@ -134,12 +134,6 @@
 
 ---
 
-> If you wish to make an apple pie from scratch, you must first invent the universe.
->
-> -- <cite>*Carl Sagan*</cite>
-
----
-
 > In corporation religions as in others, the heretic must be cast out not 
 > because of the probability that he is wrong but because of the
 > possibility that he is right.
@@ -148,16 +142,28 @@
 
 ---
 
+> Die ganze Börse hängt nur davon ab, ob es mehr Aktien gibt als Dummköpfe - oder umgekehrt.
+>
+> -- <cite>*André Kostolany*</cite>
+
+---
+
+> If you wish to make an apple pie from scratch, you must first invent the universe.
+>
+> -- <cite>*Carl Sagan*</cite>
+
+---
+
 > Der erste Trunk aus dem Becher der Naturwissenschaft macht atheistisch, 
 > aber auf dem Grunde des Bechers wartet Gott.
 >
-> --<cite>*Werner Heisenberg*</cite>
+> -- <cite>*Werner Heisenberg*</cite>
 
 ---
 
 > We are a way for the Cosmos to know itself.
 >
-> --<cite>*Carl Sagan*</cite>
+> -- <cite>*Carl Sagan*</cite>
 
 ---
 
@@ -166,7 +172,7 @@
 > But if by God one means the set of physical laws that govern the
 > universe, then clearly there is such a God.
 >
-> --<cite>*Carl Sagan*</cite>
+> -- <cite>*Carl Sagan*</cite>
 
 ---
 
@@ -174,4 +180,38 @@
 > persists in trying to adapt the world to himself. Therefore all
 > progress depends on the unreasonable man.
 > 
-> --<cite>*George Bernard Shaw*</cite>
+> -- <cite>*George Bernard Shaw*</cite>
+
+---
+
+> Do not correct a fool, or he will hate you; correct a wise man and he
+> will appreciate you.
+>
+> -- <cite>*Solomon (Bible, Proverbs 9:8)*</cite>
+
+---
+
+> Dem Blöden fährt bei jedem sinnvollen Wort der Schrecken in die Glieder.
+>
+> -- <cite>*Heraklit*</cite>
+
+---
+
+> Ich bin ein vulgärer Mensch, aber ich versichere euch, Eure Majestät,
+> meine Musik ist es nicht.
+>
+> -- <cite>*Wolfgang Amadeus Mozart*</cite>
+
+---
+
+> Judge your success in life by how well you make your
+> decisions, not by your outcome. You have full control of your
+> decisions, and often no control at all over their results.
+>
+> -- <cite>Marcus Aurelius</cite>
+
+---
+
+> We have two lives, and the second begins when we realize we only have one.
+>
+> -- <cite>unknown</cite>
