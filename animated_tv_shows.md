@@ -1,0 +1,25 @@
+# Animated TV shows
+
+ Year | Title | Info 
+------|-------|------
+1999|[Futurama](https://www.amazon.de/Futurama-komplette-Serie-Sonderverpackung-DVDs/dp/B00004RXSU/?tag=maierandi-21)| https://de.wikipedia.org/wiki/Futurama
+1991|[Darkwing Duck](https://www.amazon.de/Darkwing-Duck/dp/B000Q6775E/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Darkwing_Duck
+1989|[Chip und Chap](https://www.amazon.de/Chip-Chap-Ritter-Rechts-Collection/dp/B0088UPHPM/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Chip_und_Chap_%E2%80%93_Die_Ritter_des_Rechts
+1989|[Die Simpsons](https://www.amazon.de/Die-Simpsons-Staffel-Season-DVD/dp/B01GRTCLE0/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Die_Simpsons
+1987|[DuckTales](https://www.amazon.de/Ducktales-Geschichten-Entenhausen-Collection-DVDs/dp/B008JBKKAM/?tag=maierandi-21)|https://de.wikipedia.org/wiki/DuckTales_%E2%80%93_Neues_aus_Entenhausen
+1985|[Disneys Gummibärenbande](https://www.amazon.de/Gummib%C3%A4renbande-Disney-deutsch/dp/B00ET1YH6E/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Disneys_Gummib%C3%A4renbande
+1984|[Lucky Luke](https://www.amazon.de/Lucky-Luke-Collection-DVDs/dp/B0007ZB4XA/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Lucky_Luke_(Zeichentrickserie)
+1983|[Alice im Wunderland](https://www.amazon.de/Alice-Wunderland-Komplettbox-Shige%C3%B4-Endo/dp/B00UPJYZQG/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Alice_im_Wunderland_(Anime)
+1981|[Danger Mouse](https://www.amazon.de/Danger-Mouse-beste-Agent-Welt/dp/B000F7MKAQ?tag=maierandi-21)|https://de.wikipedia.org/wiki/Danger_Mouse
+1981|[Die Schlümpfe](https://www.amazon.de/Die-Schl%C3%BCmpfe-komplette-Serie-Limited/dp/B01JZ90USS/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Die_Schl%C3%BCmpfe_(Fernsehserie)
+1980|[Nils Holgersson](https://www.amazon.de/Nils-Holgersson-Komplettbox-9-DVDs/dp/B00SDTO3HG/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Wunderbare_Reise_des_kleinen_Nils_Holgersson_mit_den_Wildg%C3%A4nsen_(Zeichentrickserie)
+1979|[Doctor Snuggles](https://www.amazon.de/Dr-Snuggles-Komplette-Serie-Collectors/dp/B000K2Q8S6/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Doctor_Snuggles
+1978|[Es war einmal ... der Mensch](https://www.amazon.de/Es-war-einmal-Mensch/dp/3831287066/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Es_war_einmal_%E2%80%A6_der_Mensch
+1976|[Pinocchio](https://www.amazon.de/Pinocchio-Komplettbox-DVDs-Carlo-Collodi/dp/B007GY9O6E/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Pinocchio_(1976)
+1975|[Die Biene Maja](https://www.amazon.de/Die-Biene-Maja-Komplettbox-DVDs/dp/B009MSJ5RA/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Die_Biene_Maja_(1975)
+1974|[Wickie und die starken Männer](https://www.amazon.de/Wickie-die-starken-M%C3%A4nner-Komplettbox/dp/B002D5LUTA/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Wickie_und_die_starken_M%C3%A4nner_(1974)
+1960|[Familie Feuerstein](https://www.amazon.de/Familie-Feuerstein-komplette-Staffel-Collectors/dp/B000B7VZ9W/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Familie_Feuerstein
+1960|[Herr Rossi](https://www.amazon.de/Signor-Rossi-komplette-Serie-Disc/dp/B011K7WFU4/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Herr_Rossi
+1957|[Der kleine Maulwurf](https://www.amazon.de/kleine-Maulwurf-Die-Komplettbox-DVDs/dp/B07X2M2LK2/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Der_kleine_Maulwurf
+1955|[Speedy Gonzales](https://www.amazon.de/Speedy-Gonzales-Friends-DVD-Various/dp/B01I06RGKC/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Speedy_Gonzales
+1940|[Tom und Jerry](https://www.amazon.de/Tom-Jerry-Ultimate-Classic-Collection/dp/B0006PPUPE/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Tom_und_Jerry
