@@ -23,3 +23,5 @@
 1957|[Der kleine Maulwurf](https://www.amazon.de/kleine-Maulwurf-Die-Komplettbox-DVDs/dp/B07X2M2LK2/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Der_kleine_Maulwurf
 1955|[Speedy Gonzales](https://www.amazon.de/Speedy-Gonzales-Friends-DVD-Various/dp/B01I06RGKC/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Speedy_Gonzales
 1940|[Tom und Jerry](https://www.amazon.de/Tom-Jerry-Ultimate-Classic-Collection/dp/B0006PPUPE/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Tom_und_Jerry
+1933|[Popeye](https://www.amazon.de/Popeye-Teil-Discs/dp/B0040N9HGG/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Popeye
+
