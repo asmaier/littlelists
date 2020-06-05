@@ -19,6 +19,7 @@
 1975|[Die Biene Maja](https://www.amazon.de/Die-Biene-Maja-Komplettbox-DVDs/dp/B009MSJ5RA/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Die_Biene_Maja_(1975)
 1974|[Wickie und die starken Männer](https://www.amazon.de/Wickie-die-starken-M%C3%A4nner-Komplettbox/dp/B002D5LUTA/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Wickie_und_die_starken_M%C3%A4nner_(1974)
 1972|[Grisu, der kleine Drache](https://www.amazon.de/Grisu-kleine-Drache-komplette-Episode/dp/B000SQ5TJS/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Grisu,_der_kleine_Drache
+1969|[Sancho und Pancho](https://www.amazon.de/Sancho-Pancho/dp/B07QM14MMB/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Sancho_und_Pancho
 1963|[Der rosarote Panther](https://www.amazon.de/rosarote-Panther-Cartoon-Collection-1964-2004/dp/B0002PZ9CM/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Der_rosarote_Panther_(Fernsehserie)
 1960|[Familie Feuerstein](https://www.amazon.de/Familie-Feuerstein-komplette-Staffel-Collectors/dp/B000B7VZ9W/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Familie_Feuerstein
 1960|[Herr Rossi](https://www.amazon.de/Signor-Rossi-komplette-Serie-Disc/dp/B011K7WFU4/?tag=maierandi-21)|https://de.wikipedia.org/wiki/Herr_Rossi
