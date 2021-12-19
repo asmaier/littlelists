@@ -215,3 +215,46 @@
 > We have two lives, and the second begins when we realize we only have one.
 >
 > -- <cite>unknown</cite>
+
+---
+
+> Ein Problem wird erst zu einem Problem, wenn es ein Problem wird.
+>
+> --<cite>Franziska Lautenschläger</cite>
+
+---
+
+> Die Schwärmerei für die Natur kommt von der Unbewohnbarkeit der Städte.
+>
+> --<cite>Berthold Brecht</cite>
+
+---
+
+> Wer die Wahrheit nicht weiß, der ist bloß ein Dummkopf.
+> Aber wer sie weiß und sie eine Lüge nennt, der ist ein Verbrecher!
+
+>
+> --<cite>Berthold Brecht</cite>
+
+---
+
+> Ich sehe meine Rechte nicht beschränkt oder bedroht. Ich sehe mich bedroht durch Rechte und Beschränkte.
+> Lieber glaube ich Wissenschaftlern, die sich mal irren als Irren, die glauben sie seien Wissenschaftler.
+
+>
+> --<cite>Fabian Eisenring</cite>
+
+> There is nothing so useless as doing efficiently that which should not be done at all.
+
+>
+> --<cite>Peter Drucker</cite>
+
+> Verbringe nicht die Zeit mit dem Suchen des Hindernisses, vielleicht ist keines da.
+
+>
+> --<cite>Franz Kafka</cite>
+
+> The revolution won’t happen by people staying home and being good.
+
+>
+> --<cite>Rebecca Solnit</cite>
