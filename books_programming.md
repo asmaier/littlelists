@@ -1,7 +1,9 @@
-#  Books about Computer Science and Programming
+#  Books about Data Science and Programming
 
  Year | Title | Info 
 ------|-------|------
+2022  | [Geron: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.de/Hands-Machine-Learning-Scikit-Learn-TensorFlow-dp-1098125975/dp/1098125975?tag=maierandi-21) | The best book about data science and machine learning, perfect mixture of theory and practical coding examples
+2016  | [Goodfellow: Deep Learning](https://www.amazon.de/-/en/Ian-Goodfellow/dp/0262035618?tag=maierandi-21) | The standard reference and bible of deep learning
 2015  | [McDowell: Cracking the Coding Interview](https://www.amazon.de/Cracking-Coding-Interview-6th-Programming/dp/0984782850/?tag=maierandi-21) | Sets the standard for books of this kind
 2014  | [Butcher: Seven Concurrency Models in Seven Weeks](https://www.amazon.de/Seven-Concurrency-Models-Weeks-Programmers/dp/1937785653/?tag=maierandi-21) | Best overview and comparison of different concurrency models
 2013  | [DeMarco: Peopleware: Productive Projects and Teams ](https://www.amazon.de/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/?tag=maierandi-21) | Peopleware is the one book that everyone who runs a software team needs to read and reread once a year.
@@ -12,6 +14,7 @@
 2011  | [Sedgewick: Algorithms](https://www.amazon.de/Algorithms-Robert-Sedgewick/dp/032157351X/?tag=maierandi-21) | Best book on algorithms, because it shows real Java code, not just pseudocode
 2008  | [Bloch: Effective Java (2nd Edition)](https://www.amazon.de/Effective-Java-2nd-Programming-Language/dp/0321356683/?tag=maierandi-21) | A senior Java developer must have read this book
 2008  | [Martin: Clean Code](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Clean_Code
+2007  | [Bishop: Pattern Recognition and Machine Learning](https://www.amazon.de/-/en/Christopher-M-Bishop/dp/0387310738?tag=maierandi-21) | Advanced bayesian perspective on classical machine learning
 2007  | [Chapman: Fortran 95/2003 for Scientists and Engineers](https://www.amazon.de/Fortran-95-2003-Scientists-Engineers/dp/0073191574/?tag=maierandi-21) | Best book on modern Fortran
 2007  | [Segaran: Programming Collective Intelligence](https://www.amazon.de/Programming-Collective-Intelligence-published-September/dp/B01M0ZDFPI/?tag=maierandi-21) | Perfect book about data mining and machine learning with Python
 2006  | [Goetz: Java Concurrency in Practice](https://www.amazon.de/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/?tag=maierandi-21) | The reference about concurrent programming in Java

@@ -42,6 +42,7 @@ Year | Title | Info
 
  Year | Title | Info 
 ------|-------|------
+2017  | [Kling: Qualityland](https://www.amazon.de/QualityLand-Roman-helle-Marc-Uwe-Kling/dp/3550050232/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Qualityland
 2016  | [Liu: Death's end](https://www.amazon.de/Three-Body-Problem-3-Deaths-End/dp/1784971650/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Death%27s_End
 2015  | [Liu: The dark forrest](https://www.amazon.de/Three-Body-Problem-2-Dark-Forest/dp/1784971618/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Dark_Forest
 2014  | [Liu: The three body problem](https://www.amazon.de/Three-Body-Problem-1-Cixin-Liu/dp/178497157X/?tag=maierandi-21) | https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
@@ -50,7 +51,9 @@ Year | Title | Info
 2006  | [Akunin: Fandorin](https://www.amazon.de/Fandorin-Boris-Akunin/dp/3866152434/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Erast_Fandorin
 2006  | [Falkner: So ist nun mal der Russe](https://www.amazon.de/ist-nun-mal-Russe-russischen/dp/3937992049/?tag=maierandi-21) | "Wir Russen sind unserem Wesen nach Anarchisten."
 2006  | [LeLord: Hectors Reise](https://www.amazon.de/Hectors-Reise-oder-Suche-Glück/dp/3492248284/?tag=maierandi-21)  | Can make happy
-2005  | [Wells: Krieg der Welten](https://www.amazon.de/Krieg-Welten-detebe-H-G-Wells/dp/3257235372/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Der_Krieg_der_Welten    
+2005  | [Wells: Krieg der Welten](https://www.amazon.de/Krieg-Welten-detebe-H-G-Wells/dp/3257235372/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Der_Krieg_der_Welten
+2005  | [Wilde: Sämtliche Märchen und Erzählungen](https://www.amazon.de/S%C3%A4mtliche-M%C3%A4rchen-Erz%C3%A4hlungen-Oscar-Wilde/dp/3938484381/?tag=maierandi-21) | https://en.wikipedia.org/wiki/Oscar_Wilde
+2004  | [Keyes: Flowers for Algernon](https://www.amazon.de/-/en/Daniel-Keyes/dp/015603008X?tag=maierandi-21) | https://en.wikipedia.org/wiki/Flowers_for_Algernon
 1997  | [Burgess: Uhrwerk Orange](https://www.amazon.de/Uhrwerk-Orange-Anthony-Burgess/dp/3453023889/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Uhrwerk_Orange_(Roman)
 1997  | [Dostojewskij: Die Sanfte](https://www.amazon.de/Die-Sanfte-Eine-phantastische-Erzählung/dp/325770089X/?tag=maierandi-21) | https://de.wikipedia.org/wiki/Die_Sanfte
 1994  | [Orwell: 1984](https://www.amazon.de/1984-George-Orwell/dp/3548234100/?tag=maierandi-21) | https://de.wikipedia.org/wiki/1984_(Roman)
