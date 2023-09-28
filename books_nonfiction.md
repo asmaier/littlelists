@@ -141,6 +141,7 @@ Year | Title | Info
 ## Sport
 Year | Title | Info 
 ------|-------|------
+2020  | [Stryker: The 12-minute athlete](https://www.amazon.de/12-Minute-Athlete-Fitter-Stronger-Bodyweight/dp/1982136480?tag=maierandi-21) | The best bodyweight HIIT program. It really improved my fitness.    
 2020  | [Baum: Vegan zur Höchstleistung](https://www.amazon.de/Vegan-zur-H%C3%B6chstleistung-pflanzenbasierte-sportliche/dp/3742315293?tag=maierandi-21) | ---  
 2018  | [Scheck: Top ernährt im Sport](https://www.amazon.de/Top-ern%C3%A4hrt-Sport-Alexandra-Schek/dp/3746056918/?tag=maierandi-21) | No nonsense guide to nutrition for sport  
 2011  | [Lauren: Fit ohne Geräte](https://www.amazon.de/gp/product/3868831665/?tag=maierandi-21) | Very good an challenging home workout routines 
