@@ -210,6 +210,12 @@
 
 ---
 
+> Perseverance is a great substitute for talent.
+> 
+> -- <cite>*Steve Martin*</cite>
+
+---
+
 > Judge your success in life by how well you make your
 > decisions, not by your outcome. You have full control of your
 > decisions, and often no control at all over their results.
@@ -243,10 +249,22 @@
 
 ---
 
+> Toleranz wird zum Verbrechen, wenn sie dem Bösen gilt.
+>
+> -- <cite>*Thomas Mann*</cite>
+
+---
+
 > Ich sehe meine Rechte nicht beschränkt oder bedroht. Ich sehe mich bedroht durch Rechte und Beschränkte.
 > Lieber glaube ich Wissenschaftlern, die sich mal irren als Irren, die glauben sie seien Wissenschaftler.
 >
 > -- <cite>*Fabian Eisenring*</cite>
+
+---
+
+> Was ich selber denk und tu, trau ich auch dem andern zu.
+> 
+> -- <cite>*Unbekannt*</cite>
 
 ---
 
@@ -262,6 +280,12 @@
 
 ---
 
+> The more you want something to be true, the more skeptical you need to be of it.
+> 
+> -- <cite>*Ethan Siegel*</cite>
+
+---
+
 > The revolution won’t happen by people staying home and being good.
 >
 > -- <cite>*Rebecca Solnit*</cite>
@@ -271,6 +295,24 @@
 > In Krisenzeiten suchen Intelligente nach Lösungen, Idioten suchen nach Schuldigen.
 >
 > -- <cite>*Unbekannt*</cite>
+
+---
+
+> Man kann in dieser Welt, wie sie ist, nur dann weiterleben, wenn man zutiefst glaubt, dass sie nicht so bleibt, wie sie ist, sondern werden wird, wie sie sein soll.
+>
+> -- <cite>*Carl Friedrich von Weizsäcker*</cite>
+
+---
+
+> Behandle die Menschen so, als wären sie, wie sie sein sollten, und du hilfst ihnen zu werden, wie sie sein können.
+>
+> -- <cite>*Johann Wolfgang von Goethe*</cite>
+
+---
+
+> It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they can tell us what to do.
+>
+> -- <cite>*Steve Jobs*</cite>
 
 ---
 
